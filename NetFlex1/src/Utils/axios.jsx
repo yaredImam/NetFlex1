@@ -5,3 +5,5 @@ const instance = axios.create({
 });
 
 export default instance;
+
+// axios fetches , take the base URL & merge with the 
